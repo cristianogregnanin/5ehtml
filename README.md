@@ -12,3 +12,4 @@ Pagina studente:
     
     Destra:
       -immagine a piacere con dimensione a scelta.
+      -aggiungere in basso un bottone per poter tornare alla pagina contenente la tabella con tutti gli studenti
