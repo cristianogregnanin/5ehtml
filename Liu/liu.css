@@ -1,0 +1,21 @@
+td{
+    text-align: center;
+    padding: 5px;
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+img{
+    float: right;
+    width: 600px;
+    height: 400px; 
+    margin: 20px;
+}
+p{
+    float: right;
+    margin: 0 20px 20px 20px;
+}
+.buttonStyle{
+    margin: 20px;
+}
