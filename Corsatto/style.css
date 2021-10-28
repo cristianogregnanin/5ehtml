@@ -1,0 +1,36 @@
+body{
+    background-color: beige;
+}
+
+table {
+    border-collapse:collapse;
+    margin: 40px;
+}
+td, th {
+    border:1px solid black;
+    padding:8px;
+}
+
+th{
+    background-color:cadetblue;
+}
+
+.lato_destro{
+    position: relative;
+    float: right;
+}
+
+.lato_sinistro{
+    position: relative;
+    float: left;
+}
+
+.img_profilo{
+    border: 1px solid black;
+    margin: 40px;
+}
+
+.exit_btn{
+    font-weight: bold;
+}
+
