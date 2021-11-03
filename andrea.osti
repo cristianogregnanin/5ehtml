@@ -1,6 +1,6 @@
 <html>
 <head>
-
+<link rel="stylesheet" href="Table.css">
 </head>
 <body>
 <table>
@@ -18,7 +18,7 @@
 </tr>
 </table>
 <img src="Immagine.jpg" alt="Testo alternativo" align="right">
-<a href="Tabella_5E_html"><img src="Home.jpg" alt="Home" Table.css></a>
+<a href="Tabella_5E_html"><img src="Home.jpg" alt="Home"></a>
 </body>
 
 
