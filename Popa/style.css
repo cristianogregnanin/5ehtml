@@ -1,0 +1,46 @@
+	.foto
+	{
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 50%;
+	}
+	
+	.btn
+	{
+		background-color: #009879;
+		font-size: 20px;
+		padding: 14px 40px;  /*dimensione btn*/
+		border-radius: 12px; /*arrotonda*/
+		
+	}
+
+	.tabella 
+	{
+  		border-collapse: collapse; 
+  		margin: 25px 0;
+  		margin-left: auto;
+  		margin-right: auto;
+  		box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); /*ombra in basso colore nero*/
+		font-family: sans-serif;
+	}
+
+	.tabella thead tr 
+	{
+  		background-color: #009879;
+  		color: #ffffff;
+  		text-align: center;
+	}
+
+	.tabella th,
+	.tabella td 
+	{
+  		padding: 12px 15px;
+		text-align: center;
+	}
+
+	.tabella tbody tr 
+	{
+  		border-bottom: 1px solid #dddddd;
+		text-align: center;
+	}
