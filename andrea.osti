@@ -1,0 +1,27 @@
+<html>
+<head>
+<link rel="stylesheet" href="Table.css">
+</head>
+<body>
+<table>
+<tr>
+<th>nome</th>
+<th>cognome</th>
+<th>data di nascita</th>
+<th>note</th>
+</tr>
+<tr>
+<td>Andrea Silvano</td>
+<td>Osti</td>
+<td>28/11/2003</td>
+<td>Questa e' una nota di esempio</td>
+</tr>
+</table>
+<img src="Immagine.jpg" alt="Testo alternativo" align="right">
+<a href="Tabella_5E_html"><img src="Home.jpg" alt="Home" class="Table"></a>
+</body>
+
+
+
+
+</html>
