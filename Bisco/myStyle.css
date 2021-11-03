@@ -1,0 +1,46 @@
+table
+{
+	text-align:center;
+	height:20px;
+	padding-top: 20px;
+	border-collapse: collapse;
+}
+
+tr
+{
+	border: 4px solid black;
+}
+
+td
+{
+	border: 4px solid black;
+	width: 160px;
+	height: 60px;
+}
+
+a
+{	
+	float:left;
+	position: fixed;
+	bottom: 50px;
+	right:150px;
+}
+
+img{
+	float: left;
+	padding-top: 30px;
+	padding-left: 900px;
+    padding-right:50px;
+    padding-bottom:150px;
+    width:322px;
+    height:321px;
+}
+
+.button{
+		background-color: blue;
+		border: 4px;
+		color: black;
+		text-align: center;
+		font-size: 40px;
+		
+}
